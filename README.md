@@ -1,3 +1,5 @@
+> **Moved:** this now lives in [jacobrakaiFoundation/claude-mods](https://github.com/jacobrakaiFoundation/claude-mods/tree/main/mods/usage-meter), maintained by the Jacobrakai Foundation. This repository is archived; the copy here still works but won't get updates.
+
 # usage-meter
 
 A Claude Code mod that puts your usage above the prompt, in the terminal and the desktop app:
