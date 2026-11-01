@@ -1,0 +1,5 @@
+{
+  "name": "claude-usage-meter",
+  "owner": { "name": "jacobyoby" },
+  "plugins": [{ "name": "usage-meter", "source": "./" }]
+}
